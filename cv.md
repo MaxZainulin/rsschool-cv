@@ -71,5 +71,5 @@
     }
  
 
-## I dont know English very cool, but my level is pre-intermediate. I study English whenever possible and I also study at a university where everything is taught in English/Russian
+## I don't know English very cool, but my level is pre-intermediate. I study English whenever possible and I also study at a university where everything is taught in English/Russian
 
