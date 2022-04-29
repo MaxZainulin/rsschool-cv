@@ -19,6 +19,11 @@
 3. Parallax scrolling.
 4. Writing simple, reliable, readable code.
 
+## My project:
+1. https://maxzainulin.github.io/
+2. https://maxzainulin.github.io/portfolio/ (at work, not finished)
+3. https://maxzainulin.github.io/Cozy-House/
+
 ## Example of my code on js:
 
 	let costBuild = 0;
