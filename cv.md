@@ -14,7 +14,7 @@
 
 ## My knowledge and skills:
 
-1. HTML5, css3, css, js, Bootstrap, JQuery.
+1. HTML5, css3, css, js, Bootstrap, JQuery, GRID, C.
 2. Adaptive layout.
 3. Parallax scrolling.
 4. Writing simple, reliable, readable code.
