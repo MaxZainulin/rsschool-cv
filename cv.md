@@ -18,6 +18,7 @@
 2. Adaptive layout.
 3. Parallax scrolling.
 4. Writing simple, reliable, readable code.
+5. I'm starting to study vue.js
 
 ## My project:
 https://maxzainulin.github.io/
